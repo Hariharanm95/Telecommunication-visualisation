@@ -82,6 +82,7 @@ But international call charges are high as compare to others it's an obvious thi
 GRAPHICAL ANALYSIS
 UNIVARIATE ANALYSIS
 In Univariate Analysis we analyse data over a single column from the numerical dataset, for this we use 3 types of plot which are box plot, strip plot, dis plot.
+
 ![image](https://user-images.githubusercontent.com/100566501/177734440-eb3851ad-a1c2-4598-b1ff-4b2afd2e1cfc.png)
 ![image](https://user-images.githubusercontent.com/100566501/177734472-8e403033-24dc-4b8b-a199-3e8d0d35bf81.png)
 ![image](https://user-images.githubusercontent.com/100566501/177734541-c9992583-7c93-4290-97a3-cae87ec70491.png)
@@ -108,5 +109,16 @@ In Univariate Analysis we analyse data over a single column from the numerical d
 ![image](https://user-images.githubusercontent.com/100566501/177735349-89dd5189-9433-4121-9c85-4392e32de01b.png)
 ![image](https://user-images.githubusercontent.com/100566501/177735381-298e6e43-1f8b-4cdd-8b06-3331fe7a3b67.png)
 ![image](https://user-images.githubusercontent.com/100566501/177735412-dc2797bd-0696-43b6-8971-1466395f6dc4.png)
+
+![image](https://user-images.githubusercontent.com/100566501/177735641-124298cb-7fae-4b29-bac1-bb28f5c7da5e.png)
+![image](https://user-images.githubusercontent.com/100566501/177735674-d2d9d556-bb13-43f0-9047-fc93fd1c4e26.png)
+![image](https://user-images.githubusercontent.com/100566501/177735722-683b2e75-a219-4b84-af68-31590418291d.png)
+![image](https://user-images.githubusercontent.com/100566501/177735724-8be403c7-e873-4d2e-b134-ce21af218966.png)
+![image](https://user-images.githubusercontent.com/100566501/177735772-ee381a6f-3d87-4293-82ce-1aa5d6755edb.png)
+![image](https://user-images.githubusercontent.com/100566501/177735800-8ec15f84-408f-4bbd-b4f4-54e08417eeb4.png)
+![image](https://user-images.githubusercontent.com/100566501/177735918-0e912dd5-b528-4771-8eb2-134b5690ed48.png)
+
+
+
 
 
