@@ -25,6 +25,7 @@ Churn: Customer Churn, True means churned customer, False means retained custom
 CHECKING FOR MISSING AND DUPLICATE VALUES
 
 ![image](https://user-images.githubusercontent.com/100566501/177731662-c3b99677-2c5d-4491-b048-64da216d1660.png)
+
 • As of now There are 3333 rows and 17 columns in above dataset.
 • out of which there are 1 Boolean data type i.e. churn
 • 8 float data type,
@@ -142,7 +143,9 @@ In Bivariate Analysis we analyse data by taking two columns into consideration f
 ![image](https://user-images.githubusercontent.com/100566501/177750147-1cba964c-a05f-470c-9676-6aa68f910fc5.png)
 
 MULTIVARIATE ANALYSIS
+
 In Multivariate Analysis we analyse data by taking more than two columns into consideration from a dataset, for this we using correlation plot, correlation matrix, correlation heatmap, pair plot.
+
 ![image](https://user-images.githubusercontent.com/100566501/177750289-d89f8ab8-7c33-4e20-9500-c09f0fc4c877.png)
 ![image](https://user-images.githubusercontent.com/100566501/177750328-1bfdefbf-bbff-4f18-ac23-c3f6db041393.png)
 ![image](https://user-images.githubusercontent.com/100566501/177750316-d9e35f68-b4d0-4ba3-8ddf-d167fcb6859d.png)
@@ -179,11 +182,15 @@ Mean absolute error = 0.1399455059099384
 Accuracy = 0.862134632683659
 
 MEAN ABSOLUTE ERROR
+
 ![image](https://user-images.githubusercontent.com/100566501/177751358-aa69fefd-a65c-4641-bee7-2e5b6e2c6228.png)
+
 In terms of mean absolute error Random forest gives the best result  
 
 ACCURACY
+
 ![image](https://user-images.githubusercontent.com/100566501/177751449-3ec54c85-3c2f-41b8-8e4e-6adc75777240.png)
+
 In terms of accuracy also Random forest gives the best result.
 
 RECOMMENDATIONS:
