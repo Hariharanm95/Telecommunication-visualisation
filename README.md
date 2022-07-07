@@ -139,4 +139,68 @@ In Bivariate Analysis we analyse data by taking two columns into consideration f
 ![image](https://user-images.githubusercontent.com/100566501/177736446-c96fe2ff-cab9-423b-92a6-2aa9b4171b67.png)
 ![image](https://user-images.githubusercontent.com/100566501/177736475-39b357da-a400-4ad2-a171-9cc639beb2dc.png)
 
+![image](https://user-images.githubusercontent.com/100566501/177750147-1cba964c-a05f-470c-9676-6aa68f910fc5.png)
 
+MULTIVARIATE ANALYSIS
+In Multivariate Analysis we analyse data by taking more than two columns into consideration from a dataset, for this we using correlation plot, correlation matrix, correlation heatmap, pair plot.
+![image](https://user-images.githubusercontent.com/100566501/177750289-d89f8ab8-7c33-4e20-9500-c09f0fc4c877.png)
+![image](https://user-images.githubusercontent.com/100566501/177750328-1bfdefbf-bbff-4f18-ac23-c3f6db041393.png)
+![image](https://user-images.githubusercontent.com/100566501/177750316-d9e35f68-b4d0-4ba3-8ddf-d167fcb6859d.png)
+![image](https://user-images.githubusercontent.com/100566501/177750360-3255c20c-6903-4768-af49-05735648f798.png)
+
+PROPOSED METHODS
+LINEAR REGRESSION
+Linear regression analysis is used to predict the value of a variable based on the value of another variable. 
+Formula: y = a + bx
+ Mean absolute error =0.2415396741634622
+
+LOGISTIC REGRESSION
+It is used in statistical software to understand the relationship between the dependent variable and one or more independent variables by estimating probabilities using a logistic regression equation.
+Accuracy =0.8530734632683659
+
+DECISION TREE
+ A Decision tree is a flowchart like tree structure, where each internal node denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (terminal node) holds a class label.
+Mean absolute error = 0.2302893989957953
+Accuracy = 0.8440779610194903
+
+SUPPORT VECTOR MACHINE
+ “Support Vector Machine” (SVM) is a supervised machine learning algorithm that can be used for both classification or regression challenges. ... Support Vectors are simply the coordinates of individual observation.
+Mean absolute error = 0.4490695205336077
+Accuracy = 0.8530734632683659
+![image](https://user-images.githubusercontent.com/100566501/177751012-c31098ea-6889-49a0-ab5b-e501b9376f08.png
+
+NAIVE BAYES
+The Naive Bayes classification algorithm is a probabilistic classifier. It is based on probability models that incorporate strong independence assumptions. P(H|X)= P(X|H) P(H)/ P(X)
+Accuracy = 0.8380809595202399 
+
+RANDOM FOREST
+Random forest builds decision trees on different samples and takes their majority vote for classification and average in case of regression. 
+Mean absolute error = 0.1399455059099384
+Accuracy = 0.862134632683659
+
+MEAN ABSOLUTE ERROR
+![image](https://user-images.githubusercontent.com/100566501/177751358-aa69fefd-a65c-4641-bee7-2e5b6e2c6228.png)
+In terms of mean absolute error Random forest gives the best result  
+
+ACCURACY
+![image](https://user-images.githubusercontent.com/100566501/177751449-3ec54c85-3c2f-41b8-8e4e-6adc75777240.png)
+In terms of accuracy also Random forest gives the best result.
+
+RECOMMENDATIONS:
+Improve network coverage churned state.
+In international plan provide some discount plan to the customer.
+Improve the voice mail quality or take feedback from the customer.
+Improve the service of call centre and take frequently feedback from the customer regarding their issue and try to solve it as soon as possible.
+
+CONCLUSION:
+After performing exploratory data analysis on the data set, this is what we have incurred from data:
+There are some states where the churn rate is high as compared to others may be due to low network coverage.
+Area code and Account length do not play any kind of role regarding the churn rate so,it's redundant data column.
+In the International plan those customers who have this plan are churn more and also the international calling charges are also high so the customer who has the plan unsatisfied with network issues and high call charge.
+In the voice mail section when there are more than 20 voice-mail messages then there is a churn so it basically means that the quality of voice mail is not good.
+Total day call minutes, total day calls, Total day charge, Total eve minutes, Total eve calls, Total eve charge, Total night minutes, Total night calls, Total night charge, these columns didn't play any kind of role regarding the churn rate.
+In international calls data shows that the churn rate of those customers is high, those who take the international plan so it means that in international call charges are high also there is a call drop or network issue.
+In Customer service calls data shows us that whenever an unsatisfied customer called the service centre the churn rate is high, which means the service center didn't resolve the customer issue.
+
+
+![image](https://user-images.githubusercontent.com/100566501/177751790-aa525c91-bf70-4d6f-942d-5587f9fc7409.png)
