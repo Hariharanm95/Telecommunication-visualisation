@@ -1,9 +1,12 @@
 # Telecommunication-visualisation
 INTRODUCTION:
+
 Customer churn means shifting from one service provider to its competitor in the market. ... The telecom service providers strive very hard to sustain in this competition. So to sustain this competition they often try to retain their customers than acquiring new ones as it proved to be much costlier.
 
 UNDERSTAND MORE ABOUT THE DATA:
+
 Breakdown of Our Features:
+
 State: 51 Unique States name.
 Account Length: Length of The Account.
 Area Code: Code Number of Area having some States.
@@ -20,6 +23,7 @@ Customer service calls: Number of customer service calls made by customer.
 Churn: Customer Churn, True means churned customer, False means retained customer.
 
 CHECKING FOR MISSING AND DUPLICATE VALUES
+
 ![image](https://user-images.githubusercontent.com/100566501/177731662-c3b99677-2c5d-4491-b048-64da216d1660.png)
 • As of now There are 3333 rows and 17 columns in above dataset.
 • out of which there are 1 Boolean data type i.e. churn
@@ -30,7 +34,9 @@ CHECKING FOR MISSING AND DUPLICATE VALUES
 • And there are no duplicate value present.
 
 EXPLORATORY DATA ANALYSIS OF THE DATA SET
+
 ANALYZING WHAT THE DEPENDENT VARIABLE SAID TO US I.E 'CHURN'.
+
 ![image](https://user-images.githubusercontent.com/100566501/177732184-c3b04997-8893-4163-a2cb-0a4ea50184ee.png)
 ![image](https://user-images.githubusercontent.com/100566501/177732199-edd16f4b-0add-4c13-b881-d7761f824e39.png)
 ![image](https://user-images.githubusercontent.com/100566501/177732220-421b9e42-9be8-444d-b37c-2d065a9f2ec3.png)
@@ -125,8 +131,8 @@ In Bivariate Analysis we analyse data by taking two columns into consideration f
 ![image](https://user-images.githubusercontent.com/100566501/177736424-51a6bfff-a68c-415f-8d21-1c879a96c6e7.png)
 ![image](https://user-images.githubusercontent.com/100566501/177736446-c96fe2ff-cab9-423b-92a6-2aa9b4171b67.png)
 ![image](https://user-images.githubusercontent.com/100566501/177736475-39b357da-a400-4ad2-a171-9cc639beb2dc.png)
+![Uploading image.png…]()
 
-![image](https://user-images.githubusercontent.com/100566501/177736715-a9f726e6-a81f-44d9-9d9e-3df3f0c3e94d.png)
 
 
 
