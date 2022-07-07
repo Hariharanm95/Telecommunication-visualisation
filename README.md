@@ -116,7 +116,22 @@ In Univariate Analysis we analyse data over a single column from the numerical d
 ![image](https://user-images.githubusercontent.com/100566501/177735724-8be403c7-e873-4d2e-b134-ce21af218966.png)
 ![image](https://user-images.githubusercontent.com/100566501/177735772-ee381a6f-3d87-4293-82ce-1aa5d6755edb.png)
 ![image](https://user-images.githubusercontent.com/100566501/177735800-8ec15f84-408f-4bbd-b4f4-54e08417eeb4.png)
-![image](https://user-images.githubusercontent.com/100566501/177735918-0e912dd5-b528-4771-8eb2-134b5690ed48.png)
+
+
+BIVARIATE ANALYSIS
+In Bivariate Analysis we analyse data by taking two columns into consideration from a dataset, here we only take numerical data type column, for this visualization we use Box plot, scatter plot
+
+![image](https://user-images.githubusercontent.com/100566501/177736388-ebacb2c8-d2ee-4d3e-ab3a-7ef04cb03a77.png)
+![image](https://user-images.githubusercontent.com/100566501/177736424-51a6bfff-a68c-415f-8d21-1c879a96c6e7.png)
+![image](https://user-images.githubusercontent.com/100566501/177736446-c96fe2ff-cab9-423b-92a6-2aa9b4171b67.png)
+![image](https://user-images.githubusercontent.com/100566501/177736475-39b357da-a400-4ad2-a171-9cc639beb2dc.png)
+
+![image](https://user-images.githubusercontent.com/100566501/177736715-a9f726e6-a81f-44d9-9d9e-3df3f0c3e94d.png)
+
+
+
+
+
 
 
 
