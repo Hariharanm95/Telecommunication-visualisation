@@ -43,6 +43,7 @@ ANALYZING WHAT THE DEPENDENT VARIABLE SAID TO US I.E 'CHURN'.
 After analysing the churn column, we had little to say like almost 15% of customers have churned. let's see what other features say to us and what relation we get after correlated with churn.
 
 ANALYSING STATE COLUMN
+
 ![image](https://user-images.githubusercontent.com/100566501/177732838-a3cc8fd9-de24-4242-acdd-50da8b65e70b.png)
 ![image](https://user-images.githubusercontent.com/100566501/177732863-45ef4875-ade4-48ca-a032-ba554d73cc45.png)
 ![image](https://user-images.githubusercontent.com/100566501/177732880-29c72650-2915-486e-b971-c872d0bf377c.png)
@@ -54,6 +55,7 @@ From the above analysis CA, NJ, TX, MD, SC, MI are the ones who have a higher ch
 The reason for this churn rate from a particular state may be due to the low coverage of the cellular network.
 
 ANALYSING "INTERNATIONAL PLAN" COLUMN
+
 ![image](https://user-images.githubusercontent.com/100566501/177732997-de4efa77-b0ba-4484-a31d-dbaf2f6b1263.png)
 ![image](https://user-images.githubusercontent.com/100566501/177733045-51bfc3aa-78e6-4a08-b884-a906eba1ec59.png)
 From the above data we get
@@ -65,6 +67,7 @@ So basically the people who bought International plans are churning in big numbe
 Probably because of connectivity issues or high call charge.
 
 ANALYSING "CUSTOMER SERVICE CALLS" COLUMN
+
 ![image](https://user-images.githubusercontent.com/100566501/177733445-677ef2c8-b635-4564-8934-84c2ba32e913.png)
 It is observed from the above analysis that, mostly because of bad customer service, people tend to leave the operator.
 The above data indicating that those customers who called the service centre 5 times or above those customer churn percentage is higher than 60%,
@@ -72,6 +75,7 @@ And customers who have called once also have a high churn rate indicating their 
 So operator should work to improve the service call.
 
 ANALYSING ALL CALLS, ALL CALLS CHARGE TOGETHER
+
 As these data sets are numerical data type, so for analysing with the 'churn' which is a categorical data set, We are using mean, median, and box plots.
 ![image](https://user-images.githubusercontent.com/100566501/177733639-0a820d3f-c141-487f-9e21-71be06fc3199.png)
 ![image](https://user-images.githubusercontent.com/100566501/177733680-c5bb0178-09ca-4ce7-b977-8290bd3da558.png)
@@ -86,7 +90,9 @@ After analysing the above dataset we have noticed that total day/night/eve call/
 But international call charges are high as compare to others it's an obvious thing but that may be a cause for international plan customers to churn out.
 
 GRAPHICAL ANALYSIS
+
 UNIVARIATE ANALYSIS
+
 In Univariate Analysis we analyse data over a single column from the numerical dataset, for this we use 3 types of plot which are box plot, strip plot, dis plot.
 
 ![image](https://user-images.githubusercontent.com/100566501/177734440-eb3851ad-a1c2-4598-b1ff-4b2afd2e1cfc.png)
@@ -125,20 +131,12 @@ In Univariate Analysis we analyse data over a single column from the numerical d
 
 
 BIVARIATE ANALYSIS
+
 In Bivariate Analysis we analyse data by taking two columns into consideration from a dataset, here we only take numerical data type column, for this visualization we use Box plot, scatter plot
 
 ![image](https://user-images.githubusercontent.com/100566501/177736388-ebacb2c8-d2ee-4d3e-ab3a-7ef04cb03a77.png)
 ![image](https://user-images.githubusercontent.com/100566501/177736424-51a6bfff-a68c-415f-8d21-1c879a96c6e7.png)
 ![image](https://user-images.githubusercontent.com/100566501/177736446-c96fe2ff-cab9-423b-92a6-2aa9b4171b67.png)
 ![image](https://user-images.githubusercontent.com/100566501/177736475-39b357da-a400-4ad2-a171-9cc639beb2dc.png)
-![Uploading image.png…]()
-
-
-
-
-
-
-
-
 
 
